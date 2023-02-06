@@ -5,7 +5,7 @@
 
 ## STEPS
 
-The word document test resides in the root folder of the application 'docs_test'
+The word document test resides in the root folder of the application ##docs_test
 
 - git clone https://github.com/TeraFumba/Everlytic.git 
 - cd your_project_name
